@@ -13,7 +13,7 @@
   - Make sure that you have python 3.6.6 installed on your local or on your virtual environment. However, a virtual environment is preferred.
   1.	pip install cmake
   2.	pip install dlib
-  - if you encountered any error while installing dlib, install dlib via the wheel file:\
+  - if you have encountered any error while installing dlib, install dlib via the wheel file:\
   pip install https://pypi.python.org/packages/da/06/bd3e241c4eb0a662914b3b4875fc52dd176a9db0d4a2c915ac2ad8800e9e/dlib-19.7.0-cp36-cp36m-win_amd64.whl#md5=b7330a5b2d46420343fbed5df69e6a3f
   3.	pip install face_recognition
   4.  pip install opencv-python
